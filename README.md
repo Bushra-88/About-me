@@ -1,6 +1,6 @@
 # About-me
 
-<iframe src="https://giphy.com/embed/dsPBfiEEozyXUXShhB" width="306" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/peipei-peipeistudio-peizih-dsPBfiEEozyXUXShhB"></a></p>
+![Hello](https://gifdb.com/images/high/hello-cute-grass-yan-jun-8qf709u6b1dxf6rq.gif)
 
 Hello !
 
@@ -55,4 +55,4 @@ For personal relaxation, I like to:
 
 Thank you for visiting my page!
 
-<iframe src="https://giphy.com/embed/yDpFRI246xNLzNoaCm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thank-you-ty-tysm-yDpFRI246xNLzNoaCm"></a></p>
+![Thank you](https://www.icegif.com/wp-content/uploads/2024/05/thank-you-icegif-11.gif)
