@@ -48,7 +48,10 @@ For personal relaxation, I like to:
 
 - My children
 - Watermelon 🍉
-- Myself 😎
+- Learning new things 📚
+- Coding challenges 💻
+- A good cup of coffee ☕
+- Peaceful evenings 🌙
 
 ## Links
 
