@@ -1,4 +1,4 @@
-# Bushra ALhusaini
+# About Me
 
 ![Hello](https://gifdb.com/images/high/hello-cute-grass-yan-jun-8qf709u6b1dxf6rq.gif)
 
@@ -15,8 +15,9 @@ Hello !
 - **Efficient Researcher**: Skilled in finding solutions and information effectively.
 
 ## Projects
+- **Weather App**: A simple, user-friendly web application providing real-time weather information. [Live Demo](https://bushra-weatherapp.netlify.app/)
+- **More Projects**: Coming soon!
 
-- **Upcoming Projects**: Look out for new projects soon!
 
 ## Hobbies
 
