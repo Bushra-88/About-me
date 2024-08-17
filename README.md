@@ -2,7 +2,7 @@
 
 ![Hello](https://gifdb.com/images/high/hello-cute-grass-yan-jun-8qf709u6b1dxf6rq.gif)
 
-Hello !
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 
 > I'm **Bushra Alhusaini**, a dedicated student at BeCode and SheCodes. I am also a proud mother of two beautiful children. Originally from Iraq, I currently reside in Belgium. My passion for coding led me to pursue a Junior Developer course, as I thrive on challenging myself and continuously learning new things.
 
