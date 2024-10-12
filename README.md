@@ -1,11 +1,14 @@
-# [About me](https://github.com/Bushra-88)
+# About me
 
 ![Hello](https://gifdb.com/images/high/hello-cute-grass-yan-jun-8qf709u6b1dxf6rq.gif)
 
 > "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 
-I'm **Bushra Alhusaini**, a dedicated student at BeCode and SheCodes. I am also a proud mother of two beautiful children. Originally from Iraq, I currently reside in Belgium. My passion for coding led me to pursue a Junior Developer course, as I thrive on challenging myself and continuously learning new things.
+I'm **Bushra Alhusaini**,aspiring full-stack web development student at BeCode.org with a strong enthusiasm for coding and a desire to develop problem-solving skills. I'm eager to find an internship or entry-level job that will help me apply what I've learned in a real-world setting and further develop my technical abilities.
 
+I'm currently building foundational skills with languages and technologies such as JavaScript, HTML, CSS, and PHP, and I'm beginning to explore frameworks like React and Node.js. Though I'm a beginner, I'm a quick learner and excited to continually grow my knowledge.
+
+I enjoy collaborating with others and believe that teamwork is essential to success. I'm looking forward to the opportunity to contribute my enthusiasm and willingness to learn to a team, while also gaining valuable experience in the web development field.
  I find it fascinating how coding can transform ideas into living, functioning projects.
 
 ## Skills
@@ -16,7 +19,10 @@ I'm **Bushra Alhusaini**, a dedicated student at BeCode and SheCodes. I am also 
 
 ## Projects
 - **Weather App**: A simple, user-friendly web application providing real-time weather information. [Live Demo](https://bushra-weatherapp.netlify.app/)
-- **More Projects**: Coming soon!
+- **Wanderlust Europe**: is a visually engaging and interactive website, showcasing a collection of popular European cities. Each city card includes important details such as landmarks and the best time to visit, aimed at helping potential travelers decide on their next adventure [Live Demo](https://wonderlust-eroupa.netlify.app/)
+- **Climate Compass** Climate-Compass is a weather forecast application that provides the real temperature for 5 days and a city photo The application is designed to be user-friendly, with a clean and intuitive interface that makes it easy [Live Demo](https://b-climate-compass.netlify.app/)
+- **The best pong game** Arcade Pong Game is a classic arcade-style game where players control a paddle to hit a ball back and forth on a screen. The goal is to outmaneuver your opponent and score points by making the ball land on their side of the screen.[Live Demo](https://bushra-pong-game.netlify.app/)
+- 
 
 
 ## Hobbies
